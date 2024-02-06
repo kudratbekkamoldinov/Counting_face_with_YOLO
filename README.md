@@ -1,7 +1,3 @@
-Creating a README for your face counting project involves explaining what the project does, how to install it, how to use it, and any other relevant information. Below is a template for a README based on a face counting project that uses YOLO (You Only Look Once), which is a state-of-the-art, real-time object detection system.
-
----
-
 # Face Counting with YOLO
 
 ## Project Overview
@@ -71,7 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 - The YOLO creators for their groundbreaking work in real-time object detection.
 - Contributors and community for continuous improvements.
-
----
-
-Please replace the placeholders (like `path_to_image`, `path_to_video`, and python script names) with the actual names used in your project. Also, ensure to include any additional steps or details specific to your project that users might need to know. If there are any scripts or CSV format details that need explanation, include those as well.
